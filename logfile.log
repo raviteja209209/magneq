@@ -1,0 +1,6 @@
+2020-10-15 16:24:26,301 INFO  [Log] Application opened 
+2020-10-15 16:24:34,924 INFO  [Log] Login success 
+2020-10-15 16:24:42,492 INFO  [Log] adding new employee success 
+2020-10-15 16:24:48,004 INFO  [Log] deleting  employee success 
+2020-10-15 16:24:56,645 INFO  [Log] Logout success 
+2020-10-15 16:24:57,097 INFO  [Log] Application closed 

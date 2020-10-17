@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="suite1" verbose="1" >
+<test name="no package">
+<classes>
+<class name="com.testscripts.TC03" />
+<class name="com.testscripts.TC04" />
+</classes>
+</test>
+</suite>
